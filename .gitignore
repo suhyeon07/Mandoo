@@ -128,4 +128,7 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.toptal.com/developers/gitignore/api/windows,eclipse,java
+<<<<<<< HEAD
 /build/
+=======
+>>>>>>> ac067bf03ed99a702a80ff41433f110636a8adb0
